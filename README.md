@@ -1,0 +1,1 @@
+I created this visual programming language to make world generation more convenient; in the world, you can make custom code settings. It’s like a mod, but smaller. If I make it work, I’ll need to create a mod that can load .zip CWG files, and it will then create the world.
